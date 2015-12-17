@@ -3,6 +3,7 @@ List of Upcoming Hackathons in India.
 
 This repository tracks the upcoming Hackathons in India. To add a Hackathon to this list, please submit an issue, or fork this repo and submit a pull request.
 
+Keep hackathons organized by start date and then alphabetically.
 
 
 | Hackathon     |  Location    |StartDate     | EndDate     |Team?    |Contact   |
