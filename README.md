@@ -10,3 +10,4 @@ This repository tracks the upcoming Hackathons in India. To add a Hackathon to t
 |[Kotak Fintech Mobility Hackathon](https://www.hackerearth.com/sprints/kotak-fintech-mobility-hackathon/)|Online|Dec 18 2015 |Jan 17 2016|Team|[Contact](https://www.hackerearth.com/sprints/kotak-fintech-mobility-hackathon/discussion/)|
 |[Perk Hackathon](http://www.venturesity.com/challenge/id/151)   |Perk Office, Bengaluru| Dec 19 2015|Dec 20 2015 |Team|[Contact](http://www.venturesity.com/challenge/id/151)|
 |[The Geek Angels](https://hackday.thegeekangels.com/)|Hyderabad|Dec 26 2015|Dec27 2015|Team|[Contact](https://hackday.thegeekangels.com/#contact)|
+|[Fintech](https://www.hackerearth.com/sprints/fintech-india-hacks-2016/)|Online|Jan 8 2016|Jan 11 2016|Team|[Contact](https://www.hackerearth.com/sprints/fintech-india-hacks-2016/discussion/)|
